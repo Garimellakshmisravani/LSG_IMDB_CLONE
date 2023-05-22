@@ -37,7 +37,7 @@ JavaScript
 Check out the live demo of the application at http://127.0.0.1:5500/LSG_IMDB_CLONE/index.html
 
 # YOUTUBE LINK
-Check out the video explanation of the application here https://youtu.be/CVJ1PhPPG6Q
+Check out the video explanation of the application here 
 
 # Authors
 @Garimellakshmisravani
