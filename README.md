@@ -17,30 +17,30 @@ These instructions will get you a copy of the project up and running on your loc
 
 # PREREQUISITES
 
-A web browser (e.g. Google Chrome, Firefox, Safari)
-An internet connection
-A code editor (e.g. VS Code, Atom)
+* A web browser (e.g. Google Chrome, Firefox, Safari)
+* An internet connection
+* A code editor (e.g. VS Code, Atom)
 
 # INSTALLING
 
-Clone or download the repository to your local machine
-Open the project in your code editor
-Open the index.html file in your web browser to run the app
+* Clone or download the repository to your local machine
+* Open the project in your code editor
+* Open the index.html file in your web browser to run the app
 
 # BUILT-WITH
 
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 # Hosting Link
-Check out the live demo of the application at http://127.0.0.1:5500/LSG_IMDB_CLONE/index.html
+Check out the live demo of the application at https://garimellakshmisravani.github.io/LSG_IMDB_CLONE/
 
 # YOUTUBE LINK
 Check out the video explanation of the application here 
 https://youtu.be/FDXhnB9GWls
 # Authors
-@Garimellakshmisravani
+Garimella lakshmi Sravani
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
