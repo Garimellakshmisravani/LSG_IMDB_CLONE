@@ -33,7 +33,7 @@ HTML
 CSS
 JavaScript
 
-# Demo
+# Hosting Link
 Check out the live demo of the application at http://127.0.0.1:5500/LSG_IMDB_CLONE/index.html
 
 # YOUTUBE LINK
